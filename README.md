@@ -39,6 +39,14 @@ python love.py
 4. Click the "Show Love Score" button to view the compatibility percentage.
 5. Click the "Show Numerology for Name 1" or "Show Numerology for Name 2" button to view the numerology details for the corresponding name.
 
+# Interface
+
+![Interface 1](https://github.com/kingofallsnakes/love_harmony_meter/assets/153209531/cb649163-17ff-4cb6-9299-6324590c2d08)
+![Interface 2](https://github.com/kingofallsnakes/love_harmony_meter/assets/153209531/f0a9deb9-1ed8-49d7-9081-cbae910dc3e7)
+![Interface 3](https://github.com/kingofallsnakes/love_harmony_meter/assets/153209531/b294b08f-c022-4312-88f2-5ceb1281c74a)
+![Interface 4](https://github.com/kingofallsnakes/love_harmony_meter/assets/153209531/d9a19809-724e-465a-9c33-c170a54c6d3f)
+![Interface 5](https://github.com/kingofallsnakes/love_harmony_meter/assets/153209531/ea0be2d3-86cb-48d4-b171-752f3c5f2a11)
+
 **Disclaimer**
 
 This application is for entertainment purposes only. The love score and numerology insights should not be taken as a definitive measure of compatibility.
